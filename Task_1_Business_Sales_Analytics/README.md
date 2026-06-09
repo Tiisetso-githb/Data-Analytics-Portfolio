@@ -1,96 +1,90 @@
-# Business Sales Performance Analytics Dashboard 
+# Business Sales Performance Analytics Dashboard
 
 ## Project Overview
-This project analyzes business sales data using Power BI to identify revenue trends, top-performing products, profitable categories, and regional performance.
 
-## Objectives
-- Analyze revenue trends over time
-- Identify top-selling products
-- Determine the most profitable categories and regions
-- Provide actionable business recommendations
+This project focuses on analyzing business sales performance using Power BI. The objective was to identify revenue trends, top-performing products, profitable categories, and high-performing regions to support business growth and decision-making.
+
+The analysis was conducted using a sales dataset containing product, category, region, revenue, profit, and order information. Through data visualization and business intelligence techniques, the dashboard provides actionable insights that can help businesses improve profitability and optimize sales strategies.
 
 ## Tools Used
-- Power BI
-- CSV Dataset (Superstore Sales Dataset)
+
+* Power BI
+* CSV Dataset (Superstore Sales Dataset)
+* Data Cleaning and Transformation
+* Data Visualization
+* Business Intelligence and Analytics
+
+## Dashboard Metrics
+
+* Total Revenue: $2.297M
+* Total Profit: $286.397K
+* Total Orders: 5.009K
+* Highest Sales Category: Technology
+* Highest Profit Region: West
 
 ## Key Findings
-- Total Revenue: $2.297M
-- Total Profit: $286.397K
-- Total Orders: 5,009
-- Technology category generated the highest sales.
-- West region generated the highest profit.
 
-## Dashboard Components
-- Revenue KPI
-- Profit KPI
-- Total Orders KPI
-- Revenue Trend Analysis
-- Top 10 Products by Revenue
-- Sales by Category
-- Profit by Region
-- Interactive Region Filter
-<img width="857" height="487" alt="Screenshot 1" src="https://github.com/user-attachments/assets/f339b5e0-5aa0-449e-9118-11433c2deb76" />
+* Technology generated the highest sales revenue among all product categories.
+* The West region recorded the highest profit performance.
+* Sales performance generally increased over time.
+* The South region experienced fluctuations, showing a temporary decline before recovering.
+* Overall business performance demonstrated positive growth trends.
 
 ## Business Insights
-Insight 1: Strong Overall Business Performance
 
-The business generated approximately $2.3 million in total revenue from 5,009 customer orders, indicating a healthy sales volume and strong market activity.
+### Strong Revenue Performance
 
-Insight 2: Technology Drives Revenue
+The business generated total revenue of approximately $2.297 million, indicating strong market demand and consistent sales activity across products and regions.
 
-The Technology category generated the highest sales among all product categories. This suggests that technology products are in high demand and contribute significantly to overall business growth.
+### Technology Drives Sales Growth
 
-Insight 3: Regional Profitability Differences
+Technology emerged as the highest-performing category in terms of sales revenue. This suggests that technology products play a significant role in business growth and customer demand.
 
-The West region generated the highest profit, indicating stronger margins and more effective sales performance compared to other regions.
+### West Region Leads Profitability
 
-Insight 4: Revenue Concentration
+The West region generated the highest profits, indicating effective sales performance and strong market opportunities within the region.
 
-The Top 10 Products chart likely shows that a relatively small number of products contribute a significant portion of total revenue, which is common in retail and e-commerce businesses.
+### Positive Sales Trend Over Time
 
-Insight 5: Sales Trends Over Time
+Sales generally increased throughout the analyzed period, demonstrating business growth and expanding customer engagement.
 
-The Revenue Trend chart reveals how sales fluctuate over time, allowing management to identify seasonal peaks, growth periods, and potential downturns.
+### Regional Performance Differences Exist
 
-## Business Recommendations
-Recommendation 1: Invest More in Technology Products
+While most regions showed growth, the South region experienced fluctuations, highlighting opportunities for further investigation and improvement.
 
-Since Technology generates the highest sales, the business should:
+## Recommendations
 
-Increase inventory levels for high-performing technology products.
-Run targeted marketing campaigns for technology customers.
-Expand the technology product range where possible.
-Recommendation 2: Replicate West Region Success
+### Increase Investment in Technology Products
 
-The West region's strong profitability should be studied to understand:
+Expand product offerings, promotions, and inventory within the Technology category to capitalize on strong customer demand.
 
-Effective sales strategies.
-Customer preferences.
-Product mix and pricing approaches.
+### Replicate West Region Success
 
-Successful practices can then be applied to lower-performing regions.
+Analyze the factors contributing to the West region's profitability and apply similar strategies in other regions.
 
-Recommendation 3: Focus on Top-Selling Products
+### Improve South Region Performance
 
-Management should prioritize:
+Investigate market conditions, customer preferences, and operational challenges affecting the South region to identify growth opportunities.
 
-Maintaining stock availability.
-Monitoring supplier performance.
-Promoting best-selling products through marketing campaigns.
-Recommendation 4: Monitor Sales Trends Continuously
+### Monitor Sales Trends Continuously
 
-The business should use the dashboard regularly to:
+Regularly track revenue, profit, and order performance to identify emerging trends and support proactive decision-making.
 
-Track revenue growth.
-Detect declining sales early.
-Identify seasonal opportunities for promotions.
-Recommendation 5: Improve Lower-Performing Regions
+### Focus on High-Profit Segments
 
-Regions generating lower profit should be reviewed to determine:
+Prioritize products, customers, and regions that consistently contribute to profitability and long-term growth.
 
-Customer demand patterns.
-Pricing issues.
-Operational costs affecting profitability.
+## Dashboard Preview
+
+Add your Power BI dashboard screenshot here after uploading it to the repository.
+
+<img width="516" height="483" alt="Screenshot" src="https://github.com/user-attachments/assets/e22dd847-5368-4bb4-89f0-4f8359714207" />
+
+
+## Conclusion
+
+The analysis highlights strong business performance, increasing sales trends, and significant opportunities within the Technology category and West region. By leveraging data-driven insights, the business can improve profitability, optimize regional strategies, and support sustainable growth.
 
 ## Author
+
 Tiisetso Matabane

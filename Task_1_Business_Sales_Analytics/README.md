@@ -76,8 +76,6 @@ Prioritize products, customers, and regions that consistently contribute to prof
 
 ## Dashboard Preview
 
-Add your Power BI dashboard screenshot here after uploading it to the repository.
-
 <img width="516" height="483" alt="Screenshot" src="https://github.com/user-attachments/assets/e22dd847-5368-4bb4-89f0-4f8359714207" />
 
 
